@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <p>Test for commit</p>
      <RandomDesignPage/>
     </>
   )
