@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Test for commit</p>
+      <p>Test for commi</p>
      <RandomDesignPage/>
     </>
   )
